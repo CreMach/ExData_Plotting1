@@ -36,3 +36,4 @@ legend("topright",legend=names(hpc2[,7:9]),lty=1,col=c("black","red","blue"))
 plot(datetime,hpc2[,4],type="l",ylab=names(hpc2)[4])
 
 dev.off()
+
